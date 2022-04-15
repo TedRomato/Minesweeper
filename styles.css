@@ -1,0 +1,98 @@
+#Playground {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.s5 button {
+    width: 15vh;
+    height: 15vh;
+    border-width: 2vh;
+    margin: 2vh;
+}
+.s10 button {
+    width: 7vh;
+    height: 7vh;
+    border-width: 1vh;
+    margin: 1vh;
+}
+.s15 button {
+    width: 5vh;
+    height: 5vh;
+    border-width: 0.6vh;
+    margin: 0.6vh;
+}
+
+.s20 button {
+    width: 3.8vh;
+    height: 3.8vh;
+    border-width: 0.5vh;
+    margin: 0.5vh;
+}
+
+.s25 button {
+    width: 2.9vh;
+    height: 2.9vh;
+    border-width: 0.4vh;
+    margin: 0.4vh;
+}
+
+
+
+.row button {
+    vertical-align: bottom;
+    border-color: black;
+}
+.mine {
+    
+    background-image: radial-gradient(circle, black 0%, red 16%, black 50%, red 84%, black 100%);
+}
+
+.n0 {
+    background-color: white;
+}
+
+.n1 {
+    background-color: green;
+    color: white;
+}
+
+.n2 {
+    background-color: blue;
+    color: white;
+
+}
+
+.n3 {
+    background-color: yellow;
+}
+
+.n4 {
+    background-color: orange;
+}
+
+.n5 {
+    background-color: red;
+}
+
+.n6 {
+    background-color: blueviolet;
+    color: white;
+}
+
+.n7 {
+    background-image: linear-gradient(45deg, black 0%, white 20%, black 40%, white 60%, black 80%, white 100%);
+    color: white;
+
+}
+
+.n8 {
+    background-image: linear-gradient(45deg, black 0%, red 20%, black 40%, red 60%, black 80%, red 100%);
+    color: white;
+}
+
+.hidden {
+    content-visibility: hidden;
+    background-color: grey;
+}
